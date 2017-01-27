@@ -1,0 +1,6 @@
+{
+  "name": "profile-layout",
+  "short_name": "profile-layout",
+  "start_url": "/",
+  "display": "standalone"
+}
